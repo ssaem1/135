@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "new": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "utility": "cpp",
+        "stdexcept": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}
