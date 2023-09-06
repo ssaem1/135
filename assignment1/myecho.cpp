@@ -5,9 +5,6 @@
 // Student Info
 // ------------
 //
-// Name         : Yu Shan <full name, exactly as it appears on your SFU id card> 
-// Student ID # : 301573835 <full SFU student number> 
-// SFU Email    : sam_shan@sfu.ca <full SFU email address>
 //
 //
 // Statement of Originality
