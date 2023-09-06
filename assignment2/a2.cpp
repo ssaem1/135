@@ -5,9 +5,6 @@
 // Student Info
 // ------------
 //
-// Name : Yu Shan <put your full name here!>
-// St.# : 301573835 <put your full SFU student number here>
-// Email: sam_shan@sfu.ca <put your SFU email address here>
 //
 //
 // Statement of Originality
